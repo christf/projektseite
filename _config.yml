@@ -4,7 +4,7 @@
 title: "alpc demo"
 description: "Demo einer statischen Webseite"
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
-baseurl: "/projektseite"
+baseurl: "/projektseite/"
 url: "http://jeckyll.christofschulze.com"
 # url: "http://127.0.0.1:4000"
 
