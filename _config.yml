@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: demo
-email: your-email@domain.com
+email: erika0815@web.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+        Diese Webseite soll die Möglichkeiten github-pages und jekyll demonstrieren. Eine lokale jekyll-Installation wird dafür nicht benötigt.
+
+baseurl: "/projektseite" # the subpath of your site, e.g. /blog
+url: "http://jekyll.christofschulze.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
